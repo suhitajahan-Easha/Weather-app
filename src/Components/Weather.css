@@ -76,7 +76,7 @@
      width: 100vw;
      min-height: 100vh;  
      max-width: 100%; 
-     padding: 25px 50px;
+     padding: 25px 30px;
      padding-top: 50px;
      border-radius: 0px;
 
@@ -87,10 +87,12 @@
 }
     .search-bar{
       margin-bottom: 20px;
+      
 }
    .search-bar input{
     flex: 1;
     font-size: 16px;
+    width: 50%;
 }
    .search-bar img{
     padding: 12px;
