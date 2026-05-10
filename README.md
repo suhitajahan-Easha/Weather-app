@@ -92,10 +92,10 @@ weather-app/
 
 ## 📸 Screenshot
 
-Add your project screenshot here.
+
 
 ```bash
-./src/assets/Weather-app.PNG
+<img src="./src/assets/Weather-app.PNG" width="400">
 ```
 
 ---
