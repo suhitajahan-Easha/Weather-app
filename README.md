@@ -95,7 +95,8 @@ weather-app/
 
 
 ```bash
-<img src="./src/assets/Weather-app.PNG" width="400">
+<img width="422" height="588" alt="Weather-app" src="https://github.com/user-attachments/assets/f4136194-bc39-43dc-9121-a9d8899057db" />
+
 ```
 
 ---
