@@ -1,16 +1,131 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Weather App 🌦️
 
-Currently, two official plugins are available:
+A simple and responsive Weather Application built with **React.js** and **CSS**.  
+This app allows users to search for weather information for any city and view real-time weather details in a clean UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🌐 https://weather-app-afty.onrender.com/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature display
+- 💨 Wind speed and humidity information
+- ☁️ Weather condition display
+- 📱 Responsive design for mobile and desktop
+- ⚡ Fast and lightweight UI
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- CSS3
+- JavaScript
+- Vite
+
+---
+
+## 📂 Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/suhitajahan-Easha/weather-app.git
+```
+
+### 2️⃣ Navigate to the project folder
+
+```bash
+cd weather-app
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 💻 Usage
+
+After running the development server, open your browser and visit:
+
+```bash
+http://localhost:5173
+```
+
+Then search for any city to see the current weather information.
+
+---
+
+## 📁 Project Structure
+
+```bash
+weather-app/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## 📸 Screenshot
+
+Add your project screenshot here.
+
+```bash
+./src/assets/Weather-app.PNG
+```
+
+---
+
+## 🌐 Deployment
+
+This project is deployed on Render.
+
+🔗 https://weather-app-afty.onrender.com/
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+ .
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Suhita Official** using React.js and CSS.
